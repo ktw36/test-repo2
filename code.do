@@ -1,4 +1,3 @@
 This is a test.
-y
-Y
+Let's add a second line.
 
